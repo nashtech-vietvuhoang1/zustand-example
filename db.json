@@ -1,0 +1,52 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Pikachu"
+    },
+    {
+      "id": 2,
+      "name": "Eevee"
+    },
+    {
+      "id": 3,
+      "name": "Snorlax"
+    },
+    {
+      "id": 4,
+      "name": "Garchomp"
+    },
+    {
+      "id": 5,
+      "name": "Lucario"
+    },
+    {
+      "id": 6,
+      "name": "Gardevoir"
+    },
+    {
+      "id": 7,
+      "name": "Ditto"
+    },
+    {
+      "id": 8,
+      "name": "Piplup"
+    },
+    {
+      "id": 9,
+      "name": "Charmander"
+    },
+    {
+      "id": 10,
+      "name": "Mewtwo"
+    },
+    {
+      "id": 11,
+      "name": "Mew"
+    },
+    {
+      "id": 12,
+      "name": "Dialga"
+    }
+  ]
+}
